@@ -1,1 +1,1 @@
-
+# Vague Scripts Documentation
